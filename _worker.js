@@ -43,7 +43,7 @@ let autoaddress = [
 ];
 
 let FileName = 'ansoncloud8.github.io';
-let tagName = 'youtube.com/@am_club'
+let tagName = 'Amtun'
 let SUBUpdateTime = 6;
 let total = 99;//PB
 //let timestamp = now;
